@@ -1,5 +1,3 @@
-#an insignificant change for testing github
-
 from msvcrt import *
 from time import sleep
 
