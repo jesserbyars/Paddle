@@ -1,4 +1,3 @@
-from msvcrt import *
 from time import sleep
 
 from paddleobjects import *
